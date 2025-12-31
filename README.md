@@ -1,4 +1,3 @@
-# generative-multimodal-cad-chatbot
 
 # Generative Multimodal CAD Chatbot for OpenSCAD
 
