@@ -1,5 +1,4 @@
 # generative-multimodal-cad-chatbot
-AI-powered multimodal CAD chatbot converting natural language into OpenSCAD models
 
 # Generative Multimodal CAD Chatbot for OpenSCAD
 
